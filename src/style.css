@@ -17,11 +17,10 @@ p {
   text-align: var(--p-positioning);
 }
 .footer-positioning {
-  display: flex;
-  justify-content: space-evenly;
+  text-align: center;
 }
 .croissant {
-  max-width: 100%;
+  max-width: 60%;
   display: block;
   margin: 30px auto;
   border-radius: 5px;
