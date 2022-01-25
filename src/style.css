@@ -19,6 +19,9 @@ p {
 .footer-positioning {
   text-align: center;
 }
+footer a {
+  margin: 0 10px;
+}
 .croissant {
   max-width: 60%;
   display: block;
